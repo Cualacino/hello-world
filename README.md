@@ -1,2 +1,2 @@
 # hello-world
-The very first repository
+The very first repository of mine.
